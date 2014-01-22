@@ -1,0 +1,10 @@
+body
+{
+    background-color:#00ff00;
+    color:blue;
+	background:url(../imagenes/imagens.jpg) no-repeat ;
+	font-family: verdana;
+	font-size:16px;
+	margin: 0;
+    background-size:100% 120% !important;
+}
